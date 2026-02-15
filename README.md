@@ -11,6 +11,7 @@ This project uses computer vision and deep learning to recognize hand gestures r
 - 🛠️ Easy to set up and run on any system
 
 
+
 ## 🧰 Tech Stack
 
 - Python
